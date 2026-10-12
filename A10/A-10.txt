@@ -1,0 +1,14 @@
+A-10
+
+	1. WAJP to implement Polymorphism
+	   (NOTE : Consider a scenario Bank is a class that  provides methods to get the rate of interest. But rate of interest may differ according to banks).
+	   (Ex : SBI, ICICI, and Axis are providing 8.4%, 7.3%, 9.7% rate of interest).
+
+	2. WAJP to demonstrate multiple inheritance through default method (Using Interface).
+ 
+	3. WAJP to demonstrate the use of "this" Keyword.
+
+	4. WAJP to implement the "static" keyword and represent all its uses.
+
+	5. WAJP to demonstrate the hybrid inheritance by combining multilevel and single inheritance.
+	

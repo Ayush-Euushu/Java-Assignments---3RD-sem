@@ -1,0 +1,16 @@
+A-11
+
+	1. WAJP to compare two strings lexicographically. Two string are lexicographically equal if they are the same length and contain the same characters in the same positions.
+		Sample Example :
+		String 1 : This is Exercise 1
+		String 2 : This is Exercise 2
+		Sample Output :
+		"This is Exercise 1" is less than "This is Exercise 2" 
+
+	2. WAJP to check whether two string objects contain the same data or not without using any comparison method.
+	
+	3. WAJP to get the index of all the characters of the alphabet in a given string.
+
+	4. WAJP to find the given string is palindrome or not using String class.
+
+	5. WAJP to find the second most frequent character in a given string.

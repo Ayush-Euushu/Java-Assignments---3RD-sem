@@ -1,0 +1,14 @@
+A-9
+
+	1. Write a java program to create a class called Vehicle with a method 
+	called drive().
+
+	2. WAJP to create a class known as "BankAccount" with methods called deposit()
+	and withdraw(). Create a subclass called "SavingsAccount" that overrides the 
+	withdraw() method to prevent withdrawal if the account balance falls below one hundred.
+	
+	3. WAJP to create a class known as person with method named getFirstName() and 	getLastName(). 	Create a subclasss called Employee that adds a new method named getEmployeeId() and overrides the 	getLastName() method to include the employee's job title.
+
+	4. WAJP to create a class called Shape with methods called getPerimeter() and getArea(). 	Create a subclass called Circle that overrides the getPerimeter and getArea() methods to 	calculate the area and perimeter of a circle.
+
+	5. WAJP to create a Vehicle class hierarchy. The base should be Vehicle, with subclass 	Truck, Car 	and Motorcycle. Each subclass should have properties such as make, model, year 	and fuel type. 	Implement methods for calculating fuel efficiency, distance traveled, and maximum speed.
